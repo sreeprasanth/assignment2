@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>signup</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="bootstrap.min.css">
+</head>
+<body background="images/ss.jpg">
+
+    <form class="sig" action="index.html" onsubmit="return validation() && validate() && emailvalidation() && phonevalidation() && passwordvalidation() && confirmpassword()">
+
+        <h2 id="sign"> Sign up </h2>
+        <br>
+        <div>
+        <label> First Name</label>
+        <br> 
+        <input id="firstname" type="text" placeholder="First Name" onchange="validation()" required> 
+        <label id="firstlab" for="indication"></label>
+        </div>
+
+        <div>
+          <label> Last Name </label>
+          <br>
+          <input id="lastname" type="text" placeholder="Last Name" onchange="validate()" required>
+          <label id="lastlab" for="indicator"></label>
+        </div>
+        <div>
+            <label> Phone Number</label>
+            <input id="phon" type="text" placeholder="Phone Number" onchange="phonevalidation()" required>
+            <label id="phone" for="indicator"></label>
+        </div>
+        <div>
+            <label> Email </label>
+            <br>
+            <input id="emailid" type="text" placeholder="Email" onchange="emailvalidation()" required>
+            <label id="emailin" for="indicator"></label>
+
+        </div>
+    <div>
+        <label >Password</label>
+        <br>
+        <input id="typ" type="password" placeholder="Type password" onchange="passwordvalidation()" required>
+        <label id="typa" for="indicator"></label>
+    </div> 
+    <div>
+        <label> Confirm Password </label>
+        <br>
+        <input id="confirm" type="password" placeholder="Confirm Password" onchange="confirmpassword()" required>
+        <label id="confpi" for="indicator"></label>
+    </div>
+    <br>
+    <input class="sub" type="submit" value="Submit">
+    <br>
+    <br>
+    <div>
+        <h5 id="ac"> Already have an account ?</h5>
+        <a id="in" href="login.html" target="_blank">Log In</a>
+        
+    </div>
+    </form>
+
+
+        <script src="index.js"></script>     
+</body>
+</html>
+
+
+
+<!-- <div class="field">
+    <input onkeyup="trigger()" type="password" placeholder="Type password">
+    <span class="showBtn">SHOW</span>
+ </div>
+ <div class="indicator">
+    <span class="weak"></span>
+    <span class="medium"></span>
+    <span class="strong"></span>
+ </div>
+ <div class="text"></div>     
+<div> -->

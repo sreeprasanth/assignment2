@@ -1,0 +1,470 @@
+
+
+*{
+   padding: 0;
+   margin: 0;
+}
+body{
+
+    background-size: cover;
+}
+
+.base{
+
+    position: relative;
+    padding: 20px;
+    margin-left: 20px;
+    
+}
+
+#a{
+       position: relative;
+       margin-left: 25px;
+       margin-top: 10px;
+       font-family: Arial, Helvetica, sans-serif;
+       font-size: 50px;
+       font-weight: bold;
+       color:black;
+}
+#b{
+    position: relative;
+    margin-left: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    color: black;
+}
+#ho{
+
+    text-decoration: none;
+    border: 2px solid black;
+    color: black;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 30px;
+}
+
+#si{
+    text-decoration: none;
+    border: 2px solid black;
+    color: black;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 30px;
+
+}
+#lo{
+    text-decoration: none;
+    border: 2px solid black;
+    color: black;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 30px;
+
+}
+#di{
+    text-decoration: none;
+    border: 2px solid black;
+    color: black;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 30px;
+
+}
+
+    .log{
+    float: right;
+border: 2px solid black;
+margin-left: 1130px;
+margin-top: 280px;
+padding-left: 20px;
+padding-right: 20px;
+padding-top: 20px;
+padding-bottom: 20px;
+height: 21em;
+}
+#lo{
+       text-align: center;
+
+}
+
+.sig{
+      margin-left: 600px;
+      margin-top: 50px;
+      border: 4px solid black;
+     margin-right: 400px;
+     padding-left: 80px;
+     height: 50em;
+     padding-top: 50px;
+     padding-bottom: 50px;
+     background-color: white;
+}
+.sub{
+     padding-left: 40px;
+     padding-right: 40px;
+     text-align: center;
+     margin-left: 10px;
+}
+#ac{
+    color: blue;
+    background-color: white;
+}
+#in{
+    color: yellow;
+}
+#thi{
+    margin: 600px;
+    margin-top: 30px;
+
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+    text-align: end;
+    margin-top: auto;
+} 
+#kol{
+    margin: 600px;
+    margin-top: 30px;
+
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+    text-align: end;
+    margin-top: auto;
+}
+.thu{
+    position: relative;
+    margin-left: 350px;
+}
+.kod{
+    position: relative;
+    margin-left: 350px;
+}
+.ale{
+    position: relative;
+    margin-left: 350px;
+}
+.pate{
+    position: relative;
+    margin-left: 350px;
+}
+.kote{
+    position: relative;
+    margin-left: 350px;
+}
+.idue{
+    position: relative;
+    margin-left: 350px;
+}
+.ernae{
+    position: relative;
+    margin-left: 350px;
+}
+.thre{
+    position: relative;
+    margin-left: 350px;
+}
+.pale{
+    position: relative;
+    margin-left: 350px;
+}
+.male{
+    position: relative;
+    margin-left: 350px;
+}
+.koze{
+    position: relative;
+    margin-left: 350px;
+}
+.waye{
+    position: relative;
+    margin-left: 350px;
+}
+.kane{
+    position: relative;
+    margin-left: 350px;
+}
+.kasde{
+    position: relative;
+    margin-left: 350px;
+}
+#ald{
+    margin: 600px;
+    margin-top: 30px;
+
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+    text-align: end;
+    margin-top: auto;
+}
+#patd{
+    margin: 600px;
+    margin-top: 30px;
+
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+    text-align: end;
+    margin-top: auto;
+}
+#kotd{
+    margin: 600px;
+    margin-top: 30px;
+
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+    text-align: end;
+    margin-top: auto;
+}
+#idud{
+    margin: 600px;
+    margin-top: 30px;
+
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+    text-align: end;
+    margin-top: auto;
+}
+#ernad{
+    margin: 600px;
+    margin-top: 30px;
+
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+    text-align: end;
+    margin-top: auto;
+}
+#thrd{
+    margin: 600px;
+    margin-top: 30px;
+
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+    text-align: end;
+    margin-top: auto;
+}
+#pald{
+    margin: 600px;
+    margin-top: 30px;
+
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+    text-align: end;
+    margin-top: auto;
+}
+#mald{
+    margin: 600px;
+    margin-top: 30px;
+
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+    text-align: end;
+    margin-top: auto;
+}
+#kozd{
+    margin: 600px;
+    margin-top: 30px;
+
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+    text-align: end;
+    margin-top: auto;
+}
+#wayd{
+    margin: 600px;
+    margin-top: 30px;
+
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+    text-align: end;
+    margin-top: auto;
+}
+#kand{
+    margin: 600px;
+    margin-top: 30px;
+
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+    text-align: end;
+    margin-top: auto;
+}
+
+#kasd{
+    margin: 600px;
+    margin-top: 30px;
+
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+    text-align: end;
+    margin-top: auto;
+}
+.dis{
+    background-color: thistle;
+}
+
+#kok{
+    margin-left: 400px;
+    margin-top: 20px;
+}
+#thc{
+    margin-left: 400px;
+    margin-top: 20px;
+}
+#kask{
+    color: yellow;
+}
+
+
+
+
+/* form .field{
+    height: 45px;
+    width: 100%;
+    display: flex;
+    position: relative;
+  } */
+  /* form .field input{
+    width: 100%;
+    height: 100%;
+    border: 1px solid lightgrey;
+    padding-left: 15px;
+    outline: none;
+    border-radius: 5px;
+    font-size: 17px;
+    transition: all 0.3s;
+  }
+  form .field input:focus{
+    border-color: #27ae60; */
+    /* box-shadow: inset 0 0 3px #2fd072; */
+  /* }
+  form .field .showBtn{
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+    display: none;
+    user-select: none;
+  }
+  form .indicator{
+    height: 10px;
+    margin: 10px 0;
+    display: flex; */
+    /* align-items: center;
+    justify-content: space-between;
+    display: none;
+  }
+  form .indicator span{
+    position: relative;
+    height: 100%;
+    width: 100%;
+    background: lightgrey;
+    border-radius: 5px;
+  }
+  form .indicator span:nth-child(2){
+    margin: 0 3px;
+  }
+  form .indicator span.active:before{
+    position: absolute;
+    content: '';
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%; */
+    /* border-radius: 5px;
+  }
+  .indicator span.weak:before{
+    background-color: #ff4757;
+  }
+  .indicator span.medium:before{
+    background-color: orange;
+  }
+  .indicator span.strong:before{
+    background-color: #23ad5c;
+  }
+  form .text{
+    font-size: 20px;
+    font-weight: 500;
+    display: none;
+    margin-bottom: -10px;
+  }
+  form .text.weak{
+    color: #ff4757;
+  }
+  form .text.medium{
+    color: orange;
+  }
+  form .text.strong{
+    color: #23ad5c;
+  }
+
+
+
+
+
+
+
+
+
+ /* form .indicator{
+    height: 10px ;
+    display: flex;
+    align-self: center; */
+    /* justify-content: space-between;
+    margin: 10px 0;
+    display: none; 
+}
+ form .indicator span{
+    width: 100%;
+    height: 100%;
+    background: gray;
+    border-radius: 5px;
+    position: relative;
+}
+form .indicator span.medium{
+    margin: 0 3px;
+} */
+/* form .indicator span:before{ */ 
+    /* content: '';
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    /* background: red; */
+    /* border-radius: 5px; */
+/* }
+ form .indicator span.active.weak:before{
+     background-color: red;
+}
+form .indicator span.active.medium:before{
+    background-color: yellow;
+}
+form .indicator span.active.strong:before{
+    background-color: green;
+}
+form .text{
+    display: none; 
+}
+form .text.weak{
+    color: red;
+} */
+/* form .text.medium{
+    color: yellow;
+}
+form text.strong{
+    color: green;
+} */
